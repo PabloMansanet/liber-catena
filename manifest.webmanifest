@@ -1,0 +1,15 @@
+{
+  "name": "Liber Catena",
+  "short_name": "Liber Catena",
+  "description": "The Book of Chains, for reading at the table.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3e9d2",
+  "theme_color": "#58180d",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
